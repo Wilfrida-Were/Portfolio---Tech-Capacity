@@ -2,7 +2,18 @@
 
 Welcome!  
 
-This repository showcases my **data analytics projects for businesses with advanced technical capabilities**. These businesses **have the infrastructure and resources to support databases, data warehouses, pipelines, and automated workflows**, so projects focus on **scalable analytics, automated solutions, and actionable insights using advanced tools and technologies**.
+This repository showcases my **data analytics projects for businesses with advanced technical capabilities**. These businesses have the tools and infrastructure to manage **databases, data warehouses, and automated workflows**, so projects focus on **scalable analytics, automation, and actionable insights using advanced tools**.
+
+For example, these projects might use:
+
+- **SQL databases** to store large volumes of data  
+- **Data warehouses** like Amazon Redshift, Snowflake, or Azure Synapse Analytics to organize and query large datasets efficiently  
+- **Python** for data processing and analysis  
+- **ETL pipelines** to automate data workflows  
+- **Power BI, Tableau, or Metabase** for interactive dashboards  
+
+The goal is to **deliver insights efficiently at scale** for organizations that can support more complex data systems.
+
 
 ## 🔗 Let’s Connect  
 
